@@ -1,0 +1,7 @@
+/* Sequel Sans */
+@font-face {
+  font-family: 'Sequel Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://raw.githubusercontent.com/Gomeyy/fonts/blob/master/src/Sequel%20Sans%20Roman%20Head.ttf');
+}
