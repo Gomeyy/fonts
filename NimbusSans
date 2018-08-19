@@ -1,0 +1,7 @@
+/* Nimbus Sans */
+@font-face {
+  font-family: 'Nimbus Sans';
+  font-style: normal;
+  font-weight: 100;
+  src: url('https://raw.githubusercontent.com/Gomeyy/fonts/master/src/NimbusSanL-Reg.otf') format('opentype');
+}
