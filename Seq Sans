@@ -3,5 +3,5 @@
   font-family: 'Sequel Sans';
   font-style: normal;
   font-weight: 400;
-  src: url('https://raw.githubusercontent.com/Gomeyy/fonts/master/src/Sequel%20Sans%20Roman%20Head.ttf');
+  src: url('https://raw.githubusercontent.com/Gomeyy/fonts/master/src/Sequel%20Sans%20Roman%20Head.ttf') format('truetype');
 }
